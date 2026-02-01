@@ -1,0 +1,6 @@
+[submodule "light_client"]
+	path = light_client
+	url = https://github.com/Aletheia-Sync/LightClient-Noir.git
+[submodule "aletheia-sync"]
+	path = aletheia-sync
+	url = https://github.com/Aletheia-Sync/Circuits-Aletheia.git
